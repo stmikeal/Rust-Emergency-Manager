@@ -9,7 +9,8 @@ const DIR_NAME: &str = "/report";
 const DEFAULT_PATH: &str = "/home/mike/rust";
 const BRIGADES_COUNT: usize = 3;
 
-fn main() {
+#[tokio::main]
+async fn main() {
     let path: String = env::var("ROOT_PATH_IO").unwrap_or_else(|_error| {
         println!("Указатель на файл ROOT_PATH_IO не найден! Производится поиск файла по стандартному пути.");
         DEFAULT_PATH.to_string()

@@ -15,7 +15,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="522f3585-00aa-4f0e-a05a-1407e9531e93" name="Changes" comment="main function">
+    <list default="true" id="522f3585-00aa-4f0e-a05a-1407e9531e93" name="Changes" comment="some problems with lifetime">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
@@ -104,7 +104,7 @@
       <updated>1675552070623</updated>
       <workItem from="1675552072528" duration="755000" />
       <workItem from="1675582824408" duration="2104000" />
-      <workItem from="1675629732235" duration="7694000" />
+      <workItem from="1675629732235" duration="10412000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1675585867307</created>
@@ -120,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675632734527</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some problems with lifetime">
+      <created>1675639126844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675639126844</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="main function" />
-    <option name="LAST_COMMIT_MESSAGE" value="main function" />
+    <MESSAGE value="some problems with lifetime" />
+    <option name="LAST_COMMIT_MESSAGE" value="some problems with lifetime" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
