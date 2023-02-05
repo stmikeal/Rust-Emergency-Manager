@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "recipe_manager"
+name = "emergency_manager"
 version = "0.1.0"
