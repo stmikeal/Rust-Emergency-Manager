@@ -1,7 +1,6 @@
 mod emergency_async;
 
 use std::{env, fs};
-use std::path::Path;
 use emergency_async::calls::call_911;
 use futures::executor::block_on;
 
