@@ -15,11 +15,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="522f3585-00aa-4f0e-a05a-1407e9531e93" name="Changes" comment="version 0.1">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="522f3585-00aa-4f0e-a05a-1407e9531e93" name="Changes" comment="Readme, Release" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +53,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/mike/rust/Recipe_Manager/media",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +65,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/media" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
       <option name="command" value="run" />
@@ -102,7 +104,7 @@
       <updated>1675552070623</updated>
       <workItem from="1675552072528" duration="755000" />
       <workItem from="1675582824408" duration="2104000" />
-      <workItem from="1675629732235" duration="13194000" />
+      <workItem from="1675629732235" duration="13552000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1675585867307</created>
@@ -139,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675642658705</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Readme, Release">
+      <created>1675644585394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675644585394</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +160,8 @@
     <MESSAGE value="some problems with lifetime" />
     <MESSAGE value="solved problems with lifetime" />
     <MESSAGE value="version 0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 0.1" />
+    <MESSAGE value="Readme, Release" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme, Release" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
